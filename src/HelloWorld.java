@@ -11,7 +11,8 @@ public class HelloWorld {
 		char character='t';
 		boolean myBoolean=false;
 		long number=678902134;
-		
+		int num = 6;
+		System.out.println(num);
 		System.out.println(myInteger);
 		System.out.println(myShort);
 		System.out.println(myByte);
